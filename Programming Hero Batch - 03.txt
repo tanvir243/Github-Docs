@@ -1,0 +1,96 @@
+			Programming Hero Batch – 03
+01. HTML 
+1. https://www.veed.io/view/678a89ee-c928-4616-b3b1-d65ca1e952bd?sharingWidget=true&panel=share
+2. https://www.veed.io/view/babd9a08-a639-415a-b066-051cca7613ff?sharingWidget=true&panel=share
+3. https://www.veed.io/view/894f013b-96cf-485c-9b02-f68c0f2f0602?sharingWidget=true&panel=share
+4. https://www.veed.io/view/3694ffd6-5b51-4908-850e-5967b38dd736?sharingWidget=true&panel=share
+5. https://www.veed.io/view/c3b6da25-dcee-4730-88ba-57b2368f818b?sharingWidget=true&panel=share
+6. https://www.veed.io/view/0527e017-77cb-4de2-8fd1-4f8cc9a01a9c?sharingWidget=true&panel=share
+7. https://www.veed.io/view/469cb70d-661c-4a17-83a7-d2f85e323982?sharingWidget=true&panel=share
+8. https://www.veed.io/view/206a5e95-8abe-425d-a951-72ade436f2a5?sharingWidget=true&panel=share
+9. https://www.veed.io/view/d3eee8b8-055e-41e7-ba1a-c9bdcf69e400?sharingWidget=true&panel=share
+10. https://www.veed.io/view/52d04ba4-ef0b-40ca-ba37-45a75c29924c?sharingWidget=true&panel=share
+
+4_5. Pseudo Css
+1. https://www.veed.io/view/53d46875-6680-44ba-8e78-fcfd29f9608e?sharingWidget=true&panel=share
+2. https://www.veed.io/view/3722f7b1-8f19-4998-91b6-0d5ec60cbb42?sharingWidget=true&panel=share
+3. https://www.veed.io/view/702667c1-ac59-4e6f-97f3-e78a099115a1?sharingWidget=true&panel=share
+4. https://www.veed.io/view/21c82a75-01ec-4ab1-af2c-dd63105220dd?sharingWidget=true&panel=share
+5. https://www.veed.io/view/55036339-f1c5-4181-897a-de9c27772ddf?sharingWidget=true&panel=share
+6. https://www.veed.io/view/81a3bbe6-0109-4d6c-bdc7-3617e5cbdc56?sharingWidget=true&panel=share
+
+5. Assignment 1 Personal website, build a complete website by yourself
+1. https://www.veed.io/view/3cae47e2-5696-4b08-9ce8-10bfa7f9066f?sharingWidget=true&panel=share
+
+6. HTML5
+1. https://www.veed.io/view/c051f370-3dd3-475d-971c-f5eefd7e148c?sharingWidget=true&panel=share
+2. https://www.veed.io/view/65057940-3aa6-4e68-8bf5-8ef5343b07e0?sharingWidget=true&panel=share
+3. https://www.veed.io/view/1f664896-3b23-4cc1-a520-415585326dbb?sharingWidget=true&panel=share
+4. https://www.veed.io/view/35322e6f-a3ce-4643-9efb-0d26f8f182b9?sharingWidget=true&panel=share
+5. https://www.veed.io/view/bb7574cc-530a-4fb0-bd74-435e57bec2d7?sharingWidget=true&panel=share
+6. https://www.veed.io/view/5a7e11fd-7638-402f-81ee-1e4fc4b28cbc?sharingWidget=true&panel=share
+
+7. CSS3
+1. https://www.veed.io/view/b1172c34-fdfa-4d7e-a904-56025b6a54c4?sharingWidget=true&panel=share
+2. https://www.veed.io/view/9f557aab-fa80-4399-a5be-7d13bbb4711d?sharingWidget=true&panel=share
+3. https://www.veed.io/view/5e5d6ff5-ae13-4f14-8c30-a6bcd02ff95f?sharingWidget=true&panel=share
+4. https://www.veed.io/view/4929b252-add2-429d-a120-75a0dfb1293f?sharingWidget=true&panel=share
+5. https://www.veed.io/view/a688371e-473c-42f0-9e9d-1013e9f9379c?sharingWidget=true&panel=share
+6. https://www.veed.io/view/57781994-e827-4b8a-a662-8a7ec3a9a9cf?sharingWidget=true&panel=share
+7. https://www.veed.io/view/f91ff2cc-7213-4b2c-a4f4-444584b6ee61?sharingWidget=true&panel=share
+8. https://www.veed.io/view/e66099dc-1365-4a8e-97ff-2233a8a5974b?sharingWidget=true&panel=share
+9. https://www.veed.io/view/f69bc68f-eb3a-4343-94dd-a46bd029df2d?sharingWidget=true&panel=share
+10. https://www.veed.io/view/0cb362c6-184a-4006-ba86-6de7b6b3cf81?sharingWidget=true&panel=share
+11. https://www.veed.io/view/d4331d13-1735-4910-9663-333dbb706f8a?sharingWidget=true&panel=share
+12. https://www.veed.io/view/d4deb96b-a060-4505-aaeb-63a1436df920?sharingWidget=true&panel=share
+
+8. Bootstrap
+1. https://www.veed.io/view/daea3d18-b4f7-42a6-af7c-b599f8c4182b?sharingWidget=true&panel=share
+2. https://www.veed.io/view/a7bbb859-c045-4d7a-95ad-c7360947e544?sharingWidget=true&panel=share
+3. https://www.veed.io/view/8e382416-44ac-4714-8eeb-b4e7b1d540cb?sharingWidget=true&panel=share
+4. https://www.veed.io/view/76cb56e8-89d4-4cb9-ac30-2acd2bbb647b?sharingWidget=true&panel=share
+5. https://www.veed.io/view/8fcbe412-cff5-4e4f-b1da-036c4f0670a1?sharingWidget=true&panel=share
+6. https://www.veed.io/view/8c5c8b47-a981-4726-b54a-a8c1cf3be0ea?sharingWidget=true&panel=share
+7. https://www.veed.io/view/435448bd-95d3-4ed0-8ce0-f6b417cc0ee4?sharingWidget=true&panel=share
+8. https://www.veed.io/view/b8592ff0-3f06-4709-a5f6-d7666ffb7f9f?sharingWidget=true&panel=share
+9. https://www.veed.io/view/2da0b51e-7d92-4c38-b645-ab3f5983eeb9?sharingWidget=true&panel=share
+10. https://www.veed.io/view/b5d0ad61-d857-448e-9e27-3ecf3e84b2d3?sharingWidget=true&panel=share
+11. https://www.veed.io/view/b612e8dc-a82f-4ee8-ae7c-df6ed060dde3?sharingWidget=true&panel=share
+12. https://www.veed.io/view/aa01c8c7-ad2f-44ac-b0d7-1aaa300bcace?sharingWidget=true&panel=share
+
+9 - Bootstrap Project by Jhankar bhai
+
+1. https://www.veed.io/view/2bb73716-7c09-48dd-8120-19c56babe0a5?sharingWidget=true&panel=share
+2. https://www.veed.io/view/c89c3179-d293-472b-ae73-3a26f3c36314?sharingWidget=true&panel=share
+3. https://www.veed.io/view/c58bac21-7d59-4a32-9c9e-298abefb8f2a?sharingWidget=true&panel=share
+4. https://www.veed.io/view/dee4775c-0d74-4d99-aa1c-d8a756de9ed0?sharingWidget=true&panel=share
+5. https://www.veed.io/view/68574d8e-d40d-4391-8e26-97d39477afb6?sharingWidget=true&panel=share
+6. https://www.veed.io/view/2924736c-be5f-4ff7-9462-2b1d8b1ebf6d?sharingWidget=true&panel=share
+7. https://www.veed.io/view/3b567315-c7be-422c-a27e-6f60bbaa01f6?sharingWidget=true&panel=share
+8. https://www.veed.io/view/ed4b78c6-dcad-4cd3-9005-6237a46ffd32?sharingWidget=true&panel=share
+9. https://www.veed.io/view/6fdf386b-8f8f-4ff5-becd-21c4c87bd0b6?sharingWidget=true&panel=share
+10. https://www.veed.io/view/65e1634e-3779-48e7-a659-29ea7f75496a?sharingWidget=true&panel=share
+11. https://www.veed.io/view/8ed66248-9ff7-44a7-a30b-969210475356?sharingWidget=true&panel=share
+12. https://www.veed.io/view/b15e03c0-70c2-48e6-adfd-4b83fb6d963b?sharingWidget=true&panel=share
+
+9.5 -Hot Gadgets, e-commerce website practice by yoursel by jhankar vai
+1. https://www.veed.io/view/adccda52-a4f4-4e67-b294-833b64017361?sharingWidget=true&panel=share
+
+10 - Assingnment 2 Electronic school Responsive bootstrap landing page assignment
+
+1. https://www.veed.io/view/f0377bbe-3ea1-46c4-8e98-e017a18f11db?sharingWidget=true&panel=share
+
+11 - Extra CSS
+
+1. https://www.veed.io/view/5396193c-6449-4ea6-8e82-9143e6ac48ac?sharingWidget=true&panel=share
+2. https://www.veed.io/view/11739832-24a9-48d7-b2ea-d59bf066fb93?sharingWidget=true&panel=share
+3. https://www.veed.io/view/9e2bab9d-1519-4cda-8a1b-0d2b600cf188?sharingWidget=true&panel=share
+4. https://www.veed.io/view/a8c5319a-c1df-446f-a0c4-6e831d95ee41?sharingWidget=true&panel=share
+5. https://www.veed.io/view/ba4e140c-3e7e-49f7-943f-21d7a7c59dbb?sharingWidget=true&panel=share
+6. https://www.veed.io/view/c366650c-717a-4129-8762-64f7949c6c28?sharingWidget=true&panel=share
+7. https://www.veed.io/view/7b400f00-eee5-4d24-881a-1b8cfe268d14?sharingWidget=true&panel=share
+8. https://www.veed.io/view/dd83b14d-3186-4157-9820-3d48a5119ae8?sharingWidget=true&panel=share
+9. https://www.veed.io/view/ad9d3e00-7fce-4d51-a2b3-0bd758c1342d?sharingWidget=true&panel=share
+10. https://www.veed.io/view/0d794827-e0a6-4836-b2fc-65bdb6f4c813?sharingWidget=true&panel=share
+11. https://www.veed.io/view/4c6c85c9-691c-4fd5-855e-a3cc91f3a2fe?sharingWidget=true&panel=share
+12. https://www.veed.io/view/f82d9abb-f8d7-4db2-be95-73b5cfb48a66?sharingWidget=true&panel=share
