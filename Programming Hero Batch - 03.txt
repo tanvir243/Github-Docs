@@ -19,10 +19,10 @@
 5. https://www.veed.io/view/55036339-f1c5-4181-897a-de9c27772ddf?sharingWidget=true&panel=share
 6. https://www.veed.io/view/81a3bbe6-0109-4d6c-bdc7-3617e5cbdc56?sharingWidget=true&panel=share
 
-5. Assignment 1 Personal website, build a complete website by yourself
+05. Assignment 1 Personal website, build a complete website by yourself
 1. https://www.veed.io/view/3cae47e2-5696-4b08-9ce8-10bfa7f9066f?sharingWidget=true&panel=share
 
-6. HTML5
+06. HTML5
 1. https://www.veed.io/view/c051f370-3dd3-475d-971c-f5eefd7e148c?sharingWidget=true&panel=share
 2. https://www.veed.io/view/65057940-3aa6-4e68-8bf5-8ef5343b07e0?sharingWidget=true&panel=share
 3. https://www.veed.io/view/1f664896-3b23-4cc1-a520-415585326dbb?sharingWidget=true&panel=share
@@ -30,7 +30,7 @@
 5. https://www.veed.io/view/bb7574cc-530a-4fb0-bd74-435e57bec2d7?sharingWidget=true&panel=share
 6. https://www.veed.io/view/5a7e11fd-7638-402f-81ee-1e4fc4b28cbc?sharingWidget=true&panel=share
 
-7. CSS3
+07. CSS3
 1. https://www.veed.io/view/b1172c34-fdfa-4d7e-a904-56025b6a54c4?sharingWidget=true&panel=share
 2. https://www.veed.io/view/9f557aab-fa80-4399-a5be-7d13bbb4711d?sharingWidget=true&panel=share
 3. https://www.veed.io/view/5e5d6ff5-ae13-4f14-8c30-a6bcd02ff95f?sharingWidget=true&panel=share
@@ -44,7 +44,7 @@
 11. https://www.veed.io/view/d4331d13-1735-4910-9663-333dbb706f8a?sharingWidget=true&panel=share
 12. https://www.veed.io/view/d4deb96b-a060-4505-aaeb-63a1436df920?sharingWidget=true&panel=share
 
-8. Bootstrap
+08. Bootstrap
 1. https://www.veed.io/view/daea3d18-b4f7-42a6-af7c-b599f8c4182b?sharingWidget=true&panel=share
 2. https://www.veed.io/view/a7bbb859-c045-4d7a-95ad-c7360947e544?sharingWidget=true&panel=share
 3. https://www.veed.io/view/8e382416-44ac-4714-8eeb-b4e7b1d540cb?sharingWidget=true&panel=share
@@ -58,7 +58,7 @@
 11. https://www.veed.io/view/b612e8dc-a82f-4ee8-ae7c-df6ed060dde3?sharingWidget=true&panel=share
 12. https://www.veed.io/view/aa01c8c7-ad2f-44ac-b0d7-1aaa300bcace?sharingWidget=true&panel=share
 
-9 - Bootstrap Project by Jhankar bhai
+09 - Bootstrap Project by Jhankar bhai
 
 1. https://www.veed.io/view/2bb73716-7c09-48dd-8120-19c56babe0a5?sharingWidget=true&panel=share
 2. https://www.veed.io/view/c89c3179-d293-472b-ae73-3a26f3c36314?sharingWidget=true&panel=share
