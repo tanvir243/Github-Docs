@@ -13,7 +13,45 @@
 9. https://www.veed.io/view/d3eee8b8-055e-41e7-ba1a-c9bdcf69e400?sharingWidget=true&panel=share
 10. https://www.veed.io/view/52d04ba4-ef0b-40ca-ba37-45a75c29924c?sharingWidget=true&panel=share
 
-4_5. Pseudo Css
+02. CSS
+1. https://www.veed.io/view/3aa557e1-e1f7-4fdc-bb68-64adafc39dc2?sharingWidget=true&panel=share
+2. https://www.veed.io/view/d7496101-d71b-401e-9c1b-43bf6c8c1bf5?sharingWidget=true&panel=share
+3. https://www.veed.io/view/a935c62c-4737-49f8-ab30-1f47608e5d1e?sharingWidget=true&panel=share
+4. https://www.veed.io/view/0438924c-8a4d-4180-95c1-37db31ee1c8c?sharingWidget=true&panel=share
+5. https://www.veed.io/view/d0a1bff8-fb46-4c36-98ad-e5f170076e28?sharingWidget=true&panel=share
+6. https://www.veed.io/view/4b4142dd-4a81-420e-a53d-e497ebf93190?sharingWidget=true&panel=share
+7. https://www.veed.io/view/2b38f1c6-4b74-43bf-9045-96645ca2eb07?sharingWidget=true&panel=share
+8. https://www.veed.io/view/686d3acc-c075-4d2e-a925-6f9c682c48a6?sharingWidget=true&panel=share
+9. https://www.veed.io/view/6c35bef8-7b3c-4d9e-ad27-320feb255cef?sharingWidget=true&panel=share
+10. https://www.veed.io/view/18a5dbd3-fc36-4950-887a-a2f0f5347385?sharingWidget=true&panel=share
+
+03. Github
+1. https://www.veed.io/view/aa9fe137-00d6-4db2-b27b-1642fd25c5e7?sharingWidget=true&panel=share
+2. https://www.veed.io/view/5f2a3864-7f31-472a-af45-e762b6743418?sharingWidget=true&panel=share
+3. https://www.veed.io/view/449c2cc9-85f8-4872-b383-f72df0e9f4b5?sharingWidget=true&panel=share
+4. https://www.veed.io/view/a7431f57-ed0d-4370-b1d0-cdb923f03d00?sharingWidget=true&panel=share
+5. https://www.veed.io/view/eb6efe07-8e88-49b8-8845-06fa4fca50c1?sharingWidget=true&panel=share
+6. https://www.veed.io/view/02ceddca-64c3-4c70-9185-df08326f29bb?sharingWidget=true&panel=share
+7. https://www.veed.io/view/06b524e1-7d27-4a72-b013-36c103b2debb?sharingWidget=true&panel=share
+8. https://www.veed.io/view/1ab97833-fb2a-4966-b552-13877a714694?sharingWidget=true&panel=share
+9. https://www.veed.io/view/69c2fb08-6b0a-4425-894e-e1512df880a6?sharingWidget=true&panel=share
+10. https://www.veed.io/view/ec0d47bf-fb1c-4594-b7e4-af29cd951d5a?sharingWidget=true&panel=share
+
+04. Create own website by Jhankar vai
+1. https://www.veed.io/view/beafa0b0-4358-4f64-a01b-79abe39049d7?sharingWidget=true&panel=share
+2. https://www.veed.io/view/73526da3-886b-4461-b7af-87a547d4c72f?sharingWidget=true&panel=share
+3. https://www.veed.io/view/bdf00745-2bce-4fe0-ba11-b7a465816e90?sharingWidget=true&panel=share
+4. https://www.veed.io/view/1efadec1-207e-46f8-8a15-38c480236792?sharingWidget=true&panel=share
+5. https://www.veed.io/view/0130f457-3f97-475a-bef2-ce1b0431fc7f?sharingWidget=true&panel=share
+6. https://www.veed.io/view/850ef60b-ae5d-4f0b-80ed-0c535504f5fa?sharingWidget=true&panel=share
+7. https://www.veed.io/view/d42608bd-0870-410d-aef9-fa2d870b6238?sharingWidget=true&panel=share
+8. https://www.veed.io/view/067bc5fa-3c8e-41f8-9c4f-3c6799b5b483?sharingWidget=true&panel=share
+9. https://www.veed.io/view/155a477c-e3bf-41c8-a9df-5f0961b71c82?sharingWidget=true&panel=share
+10. https://www.veed.io/view/c0e42055-7296-481f-b9e0-c9dd7a169c95?sharingWidget=true&panel=share
+11. https://www.veed.io/view/5e9b1c95-d081-4768-b7b6-1db553f07c39?sharingWidget=true&panel=share
+12. https://www.veed.io/view/ae901cc6-b3d7-4b69-9874-42487e6a1e90?sharingWidget=true&panel=share
+
+04_5. Pseudo Css
 1. https://www.veed.io/view/53d46875-6680-44ba-8e78-fcfd29f9608e?sharingWidget=true&panel=share
 2. https://www.veed.io/view/3722f7b1-8f19-4998-91b6-0d5ec60cbb42?sharingWidget=true&panel=share
 3. https://www.veed.io/view/702667c1-ac59-4e6f-97f3-e78a099115a1?sharingWidget=true&panel=share
@@ -74,7 +112,7 @@
 11. https://www.veed.io/view/8ed66248-9ff7-44a7-a30b-969210475356?sharingWidget=true&panel=share
 12. https://www.veed.io/view/b15e03c0-70c2-48e6-adfd-4b83fb6d963b?sharingWidget=true&panel=share
 
-9.5 -Hot Gadgets, e-commerce website practice by yoursel by jhankar vai
+09.5 -Hot Gadgets, e-commerce website practice by yoursel by jhankar vai
 1. https://www.veed.io/view/adccda52-a4f4-4e67-b294-833b64017361?sharingWidget=true&panel=share
 
 10 - Assingnment 2 Electronic school Responsive bootstrap landing page assignment
